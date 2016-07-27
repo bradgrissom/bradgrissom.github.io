@@ -1,12 +1,18 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact Jeff Matney"
+subheadline: "Contact Jeff Matney about a hunt"
+#teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Jeff Matney
+
+Phone: 303-304-7369
+
+Email: jeff@ridgebackoutfitters.com
 
 
- [1]: http://www.wufoo.com/
+Rick Matney
+
+Phone: 303-881-9127
