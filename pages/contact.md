@@ -11,8 +11,3 @@ Jeff Matney
 Phone: 303-304-7369
 
 Email: jeff@ridgebackoutfitters.com
-
-
-Rick Matney
-
-Phone: 303-881-9127

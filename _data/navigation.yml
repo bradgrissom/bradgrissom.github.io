@@ -2,6 +2,18 @@
   url: "/"
   side: left
 
+- title: "Alaska"
+  url: "/alaska/"
+  side: left
+
+- title: "Colorado"
+  url: "/colorado/"
+  side: left
+
+- title: "Washington"
+  url: "/washington/"
+  side: left
+
 - title: "About Jeff"
   url: "/getting-started/"
   side: left
