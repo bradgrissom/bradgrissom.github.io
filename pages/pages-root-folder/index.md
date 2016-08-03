@@ -9,19 +9,19 @@ header:
   image_fullwidth: jeff_splash_main.jpg
 widget1:
   title: "Big game in Alaska"
-  url: 'http://localhost:4000/contact/'
+  url: '/alaska/'
   image: alaska_widget_1_302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Book hunts in Wrangell mountains and Adak'
 widget2:
   title: "Big game in Colorado"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/colorado/'
   image: colorado_widget_1_302x182.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: 'Elk, mule deer, antelope, and turkey all over Colorado'
 widget3:
   title: "Big game in Washington"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/washington/'
   image: washington_widget_1_302x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'White-tailed deer, black bear, and turkey in Northeast Washington'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,10 +32,12 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+
+# BAG Orig:
+# callforaction:
+#   url: https://tinyletter.com/feeling-responsive
+#   text: Inform me about new updates and features ›
+#   style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -43,10 +45,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

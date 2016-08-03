@@ -15,40 +15,41 @@
   side: left
 
 - title: "About Jeff"
-  url: "/getting-started/"
+  url: "/info/"
   side: left
 
-- title: "Pictures"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
-- title: "Videos"
-  url: "/design/video/"
-  side: left
+# BAG Orig:
+# - title: "Pictures"
+#   url: "/design/"
+#  side: left
+#  dropdown:
+#  - title: "Grid & Colors"
+#    url: "/design/grid/"
+#  - title: "Typography"
+#    url: "/design/typography/"
+#  - title: "Page/Post"
+#    url: "/design/page/"
+#  - title: "Post-Left-Sidebar"
+#    url: "/design/post-left-sidebar/"
+#  - title: "Post-Right-Sidebar"
+#    url: "/design/post-right-sidebar/"
+#  - title: "Page Full-Width"
+#    url: "/design/page-fullwidth/"
+#  - title: "Blog-Page"
+#    url: "/blog/"
+#  - title: "Video"
+#    url: "/design/video/"
+#  - title: "Gallery"
+#    url: "/design/gallery/"
+#  - title: "Portfolio"
+#    url: "/design/portfolio/"
+#
+# - title: "Videos"
+#   url: "/design/video/"
+#   side: left
 
 - title: "Book a Hunt"
-  url: "/getting-started/"
+  url: "/book_a_hunt/"
   side: left
 
 - title: "Contact"
