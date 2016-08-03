@@ -15,12 +15,10 @@ permalink: "/alaska/"
 - Brown bear
 - Grizzlie bear
 
-I am a representative and guide for Kelly Vrem at (Rough and Ready Guide Service)[www.vrem.com]
-I am a representative and guide for Mark Wagner at *TODO*
+I am a representative and guide for [Kelly Vrem's Rough and Ready Guide Service](http://alaskahunt.net/)
 
-Hunting and consulting guide for
-Booking agent, consultant, and guide
-For more information on outfitter, go to:
-- Go to (Link to Sterling's website)
+I am a representative and guide for Mark Wagner at **TODO**
 
-If you are interested in Alaskan fishing, you should check out our fishing charter in Southeast Alaska here (link to Chromechasers)
+I am a booking agent, consultant, and guide for Sterling Whitaker at [Out West Elk Hunt](http://outwestelkhunt.com)
+
+If you are interested in Alaskan fishing, you should check out our fishing charter in Southeast Alaska at [Chromechasers](http://chromechasers.com)

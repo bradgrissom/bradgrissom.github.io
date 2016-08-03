@@ -7,38 +7,21 @@ header:
    image_fullwidth: "unsplash_eagle.jpg"
 permalink: "/washington/"
 ---
-
-## Whitetailed deer
-- Five day hunt
-- WHATS INCLUDED
-    - Lodging
-    - Meals
-- PRICE
-    - $4900 per person
-
-## Black bear
-- Five day hunt
-- WHATS INCLUDED
-    - Lodging
-- PRICE
-    - Spring hunt (drawing) $2500 per person
-
-## Turkey
-- Three day hunt
-- WHATS INCLUDED
-    - Lodging
-- PRICE
-    - Spring turkey hunt $1000 per person (self-guided)
-
-Private ground where the land has been developed for prime hunting conditions for white tail, black bear, turkeys.
+Hunting on private ground in Northeast Washington where the land has been developed for prime hunting conditions for white-tailed deer, black bear, and turkey.
 
 With multiple stand locations.  Open stands and enclosed stands.  Stand-hunting or walk-hunting options.
 
+| Animal            | Length of Hunt | Whats Included | Price Per Person | Notes |
+| ----------------- | -------------- | -------------- | ---------------- | ----- |
+| White-tailed Deer | 5 days         | Lodging, meals | **$4900**        |       |
+| Black Bear        | 5 days         | Lodging        | **$2500**        | Spring hunt (drawing) |
+| Turkey            | 3 days         | Lodging        | **$1000**        | Spring hunt (self-guided) |
+
 ## ACCOMODATIONS
 
-- Mountain cabin on a private lake where you can start hunting from the front porch of the cabin.
+Mountain cabin on a private lake where you can start hunting from the front porch of the cabin.
 
-#### AMENITIES
+## AMENITIES
 
 - Wood stove
 - Indoor plumbing and running water

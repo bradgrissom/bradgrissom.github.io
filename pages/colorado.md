@@ -9,12 +9,11 @@ permalink: "/colorado/"
 ---
 - Elk hunts
 - Mule deer hunts
-- Antelope hunts (speed goats)
-- Turkeys (large chickens)
+- Antelope (speed goat) hunts
+- Turkeys
 
-I am a representative and guide for Sterling Witaker at Outwest Hunts.
+I am a booking agent, consultant, and guide for Sterling Whitaker at [Out West Elk Hunt](http://outwestelkhunt.com)
 
-Hunting and consulting guide for
-Booking agent, consultant, and guide
-For more information on outfitter, go to:
-- Go to (Link to Sterling's website)
+Sterling Whitaker
+Email: <stuwhitaker@hotmail.com>
+Phone: 719-225-0239
