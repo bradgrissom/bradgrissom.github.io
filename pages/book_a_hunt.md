@@ -7,8 +7,10 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/book_a_hunt/"
 ---
-Jeff Matney
 
-Phone: 303-304-7369
+Email or call Jeff to book a hunt:
 
-Email: <jeff@ridgebackoutfitters.com>
+| | Jeff Matney |
+| --- |
+| Email | <jeff@ridgebackoutfitters.com> |
+| Phone | 303-304-7369 |

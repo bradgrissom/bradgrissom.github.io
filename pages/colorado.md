@@ -14,6 +14,7 @@ permalink: "/colorado/"
 
 I am a booking agent, consultant, and guide for Sterling Whitaker at [Out West Elk Hunt](http://outwestelkhunt.com)
 
-Sterling Whitaker
-Email: <stuwhitaker@hotmail.com>
-Phone: 719-225-0239
+| | Sterling Whitaker |
+| --- |
+| Email | <stuwhitaker@hotmail.com> |
+| Phone | 719-225-0239 |

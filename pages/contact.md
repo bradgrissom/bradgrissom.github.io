@@ -8,8 +8,7 @@ header:
 #teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-Jeff Matney
-
-Phone: 303-304-7369
-
-Email: <jeff@ridgebackoutfitters.com>
+| | Jeff Matney |
+| --- |
+| Email | <jeff@ridgebackoutfitters.com> |
+| Phone | 303-304-7369 |
