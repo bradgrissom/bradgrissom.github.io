@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: jeff_splash_main.jpg
 widget1:
-  title: "Big game in Alaska"
-  url: '/alaska/'
-  image: alaska_widget_1_302x182.jpg
-  text: 'Book hunts in Wrangell mountains and Adak'
-widget2:
-  title: "Big game in Colorado"
-  url: '/colorado/'
-  image: colorado_widget_1_302x182.jpg
-  text: 'Elk, mule deer, antelope, and turkey all over Colorado'
-widget3:
   title: "Big game in Washington"
   url: '/washington/'
   image: washington_widget_1_302x182.jpg
   text: 'White-tailed deer, black bear, and turkey in Northeast Washington'
+widget2:
+  title: "Big game in Alaska"
+  url: '/alaska/'
+  image: alaska_widget_1_302x182.jpg
+  text: 'Book hunts in Wrangell mountains and Adak'
+widget3:
+  title: "Big game in Colorado"
+  url: '/colorado/'
+  image: colorado_widget_1_302x182.jpg
+  text: 'Elk, mule deer, antelope, and turkey all over Colorado'
 #
 # Use the call for action to show a button on the frontpage
 #
