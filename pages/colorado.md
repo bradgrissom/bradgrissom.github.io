@@ -4,7 +4,7 @@ show_meta: false
 title: "Colorado"
 subheadline: "Big game hunting in Colorado"
 header:
-   image_fullwidth: "jeff_splash_river_of_humps.jpg"
+   image_fullwidth: "jeff_colorado_splash_header.jpg"
 permalink: "/colorado/"
 gallery:
     - image_url: colorado/clientdeer1.jpg
@@ -13,14 +13,22 @@ gallery:
       caption: clientdeer2
     - image_url: colorado/clientelk.jpg
       caption: clientelk
-    - image_url: colorado/elksunset.jpg
-      caption: elksunset
-    - image_url: colorado/guidesandclientsunsetelk.jpg
-      caption: guidesandclientsunsetelk
     - image_url: colorado/jeffantelope.jpg
       caption: jeffantelope
     - image_url: colorado/twoclientselk.jpg
       caption: twoclientselk
+    - image_url: colorado/bluefireelk.jpg
+      caption: bluefireelk
+    - image_url: colorado/clientorangeelk.jpg
+      caption: clientorangeelk
+    - image_url: colorado/jeffclientcamoorangeelk.jpg
+      caption: jeffclientcamoorangeelk
+    - image_url: colorado/orangeclientthumbdeer.jpg
+      caption: orangeclientthumbdeer
+    - image_url: colorado/powerlineelk.jpg
+      caption: powerlineelk
+    - image_url: colorado/wholefamilyelk.jpg
+      caption: wholefamilyelk
 ---
 - Elk
 - Mule deer

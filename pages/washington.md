@@ -4,15 +4,13 @@ show_meta: false
 title: "Washington"
 subheadline: "Big game hunting in Washington"
 header:
-   image_fullwidth: "unsplash_eagle.jpg"
+   image_fullwidth: "jeff_washington_splash_header.jpg"
 permalink: "/washington/"
 gallery:
     - image_url: washington/dandeer.jpg
       caption: dandeer
     - image_url: washington/dansnowdeer.jpg
       caption: dansnowdeer
-    - image_url: washington/beargrass.jpg
-      caption: beargrass
     - image_url: washington/clientbeargrass2.jpg
       caption: clientbeargrass2
     - image_url: washington/clientbeargrass.jpg
@@ -35,8 +33,18 @@ gallery:
       caption: clientdeersky
     - image_url: washington/hut.jpg
       caption: hut
-    - image_url: washington/snowturkey.jpg
-      caption: snowturkey
+    - image_url: washington/buddyturkey.jpg
+      caption: buddyturkey
+    - image_url: washington/chrisdeer.jpg
+      caption: chrisdeer
+    - image_url: washington/deercam.jpg
+      caption: deercam
+    - image_url: washington/jbuddyturkey.jpg
+      caption: jbuddyturkey
+    - image_url: washington/jdesertturkey.jpg
+      caption: jdesertturkey
+    - image_url: washington/laydeer.jpg
+      caption: laydeer
 
 gallery2:
     - image_url: washington/accomodations/lakehouse.jpg
@@ -51,6 +59,7 @@ gallery2:
 Hunting on private ground in Northeast Washington where the land has been developed for prime hunting conditions for white-tailed deer, black bear, and turkey.
 
 With multiple stand locations.  Open stands and enclosed stands.  Stand-hunting or walk-hunting options.
+For prime: rifle, archery or muzzle loader hunting.
 
 | Animal            | Length of Hunt | Whats Included | Price Per Person | Notes |
 | ----------------- | -------------- | -------------- | ---------------- | ----- |

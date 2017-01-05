@@ -79,6 +79,18 @@ gallery:
       caption: wolf
     - image_url: alaska/wrangell.jpg
       caption: wrangell
+    - image_url: alaska/2clientwolf.jpg
+      caption: 2clientwolf
+    - image_url: alaska/antfieldalone.jpg
+      caption: antfieldalone
+    - image_url: alaska/camocaribu.jpg
+      caption: camocaribu
+    - image_url: alaska/caribu42.jpg
+      caption: caribu42
+    - image_url: alaska/client3caribu.jpg
+      caption: client3caribu
+    - image_url: alaska/jcak.jpg
+      caption: jcak
 ---
 - Sheep
 - Goat
@@ -90,9 +102,7 @@ gallery:
 
 I am a representative and guide for [Kelly Vrem's Rough and Ready Guide Service](http://alaskahunt.net/)
 
-I am a representative and guide for Mark Wagner at **TODO**
-
-I am a booking agent, consultant, and guide for Sterling Whitaker at [Out West Elk Hunt](http://outwestelkhunt.com)
+I am a representative and guide for Mark Wagner at Boot Bay Guide Service
 
 If you are interested in Alaskan fishing, you should check out our fishing charter in Southeast Alaska at [Chromechasers](http://chromechasers.com)
 
