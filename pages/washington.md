@@ -59,7 +59,7 @@ gallery2:
 Hunting on private ground in Northeast Washington where the land has been developed for prime hunting conditions for white-tailed deer, black bear, and turkey.
 
 With multiple stand locations.  Open stands and enclosed stands.  Stand-hunting or walk-hunting options.
-For prime: rifle, archery or muzzle loader hunting.
+Set up for prime rifle, archery, or muzzleloader hunting.
 
 | Animal            | Length of Hunt | Whats Included | Price Per Person | Notes |
 | ----------------- | -------------- | -------------- | ---------------- | ----- |
@@ -71,7 +71,7 @@ For prime: rifle, archery or muzzle loader hunting.
 
 {% include gallery2 %}
 
-Mountain cabin on a private lake where you can start hunting from the front porch of the cabin.
+Lodging provided at our mountain cabin on a private lake where you can start hunting from the front porch of the cabin.
 
 #### AMENITIES
 
