@@ -83,14 +83,14 @@ gallery:
       caption: 2clientwolf
     - image_url: alaska/antfieldalone.jpg
       caption: antfieldalone
-    - image_url: alaska/camocaribu.jpg
-      caption: camocaribu
     - image_url: alaska/caribu42.jpg
       caption: caribu42
     - image_url: alaska/client3caribu.jpg
       caption: client3caribu
     - image_url: alaska/jcak.jpg
       caption: jcak
+    - image_url: alaska/camocaribu.jpg
+      caption: camocaribu
 ---
 - Sheep
 - Goat

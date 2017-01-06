@@ -29,22 +29,22 @@ gallery:
       caption: snowdeer2
     - image_url: washington/snowdeer.jpg
       caption: snowdeer
-    - image_url: washington/clientdeersky.jpg
-      caption: clientdeersky
-    - image_url: washington/hut.jpg
-      caption: hut
     - image_url: washington/buddyturkey.jpg
       caption: buddyturkey
     - image_url: washington/chrisdeer.jpg
       caption: chrisdeer
-    - image_url: washington/deercam.jpg
-      caption: deercam
     - image_url: washington/jbuddyturkey.jpg
       caption: jbuddyturkey
     - image_url: washington/jdesertturkey.jpg
       caption: jdesertturkey
     - image_url: washington/laydeer.jpg
       caption: laydeer
+    - image_url: washington/hut.jpg
+      caption: hut
+    - image_url: washington/clientdeersky.jpg
+      caption: clientdeersky
+    - image_url: washington/deercam.jpg
+      caption: deercam
 
 gallery2:
     - image_url: washington/accomodations/lakehouse.jpg

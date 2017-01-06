@@ -10,5 +10,5 @@ permalink: "/contact/"
 ---
 | | Jeff Matney |
 | --- |
-| Email | <jeff@ridgebackoutfitters.com> |
+| Email | <jeffmatney@gmail.com> |
 | Phone | 303-304-7369 |

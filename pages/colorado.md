@@ -17,14 +17,14 @@ gallery:
       caption: jeffantelope
     - image_url: colorado/twoclientselk.jpg
       caption: twoclientselk
+    - image_url: colorado/orangeclientthumbdeer.jpg
+      caption: orangeclientthumbdeer
     - image_url: colorado/bluefireelk.jpg
       caption: bluefireelk
     - image_url: colorado/clientorangeelk.jpg
       caption: clientorangeelk
     - image_url: colorado/jeffclientcamoorangeelk.jpg
       caption: jeffclientcamoorangeelk
-    - image_url: colorado/orangeclientthumbdeer.jpg
-      caption: orangeclientthumbdeer
     - image_url: colorado/powerlineelk.jpg
       caption: powerlineelk
     - image_url: colorado/wholefamilyelk.jpg
