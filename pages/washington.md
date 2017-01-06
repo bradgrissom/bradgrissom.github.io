@@ -65,7 +65,7 @@ Set up for prime rifle, archery, or muzzleloader hunting.
 | ----------------- | -------------- | -------------- | ---------------- | ----- |
 | White-tailed Deer | 5 days         | Lodging, meals | **$4900**        |       |
 | Black Bear        | 5 days         | Lodging        | **$2500**        | Spring hunt (drawing) |
-| Turkey            | 3 days         | Lodging        | **$1000**        | Spring hunt (self-guided) |
+| Turkey            | 3 days         | Lodging        | **$1500**        | Spring hunt (self-guided) |
 
 ## ACCOMODATIONS
 
