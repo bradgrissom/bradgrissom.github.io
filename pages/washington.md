@@ -39,6 +39,8 @@ gallery:
       caption: jdesertturkey
     - image_url: washington/laydeer.jpg
       caption: laydeer
+    - image_url: washington/jeff_wa_bear.jpg
+      caption: jeff_wa_bear
     - image_url: washington/hut.jpg
       caption: hut
     - image_url: washington/clientdeersky.jpg
