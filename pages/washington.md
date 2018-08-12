@@ -65,7 +65,7 @@ Set up for prime rifle, archery, or muzzleloader hunting.
 
 | Animal            | Length of Hunt | Whats Included | Price Per Person | Notes |
 | ----------------- | -------------- | -------------- | ---------------- | ----- |
-| White-tailed Deer | 5 days         | Lodging, meals | **$4900**        |       |
+| White-tailed Deer | 5 days         | Lodging, meals | **$3900**        |       |
 | Black Bear        | 5 days         | Lodging        | **$2500**        | Spring hunt (drawing) |
 | Turkey            | 3 days         | Lodging        | **$1500**        | Spring hunt (self-guided) |
 
